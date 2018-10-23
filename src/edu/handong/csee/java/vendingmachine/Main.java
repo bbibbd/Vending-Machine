@@ -33,6 +33,7 @@ public class Main {
 			else
 				System.out.printf("need %d won more\n", vm.getPrice());
 		}
+	keyboard.close();
 	}
 
 }
